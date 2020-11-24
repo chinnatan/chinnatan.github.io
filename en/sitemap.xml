@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://chinnatan.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/"
+                href="https://chinnatan.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/"
+                href="https://chinnatan.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/"
+                href="https://chinnatan.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/series/</loc>
+    <loc>https://chinnatan.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/series/"
+                href="https://chinnatan.github.io/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/series/"
+                href="https://chinnatan.github.io/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/series/"
+                href="https://chinnatan.github.io/series/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://chinnatan.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/tags/"
+                href="https://chinnatan.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/"
+                href="https://chinnatan.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/"
+                href="https://chinnatan.github.io/tags/"
                 />
   </url>
   
